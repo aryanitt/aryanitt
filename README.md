@@ -1,323 +1,52 @@
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
-
-<h3 align="center">
-🚀 Full Stack & AI Engineer | GenAI | LLMs | RAG | FastAPI | Backend Developer
-</h3>
+<h3 align="center">Software Developer | GenAI & Full-Stack Engineer | Competitive Programmer</h3>
 
 <p align="center">
-Building scalable AI products that solve real-world problems.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+%26+AI+Engineer;Backend+Developer;FastAPI+%7C+Node.js+Developer;GenAI+%7C+LLMs+%7C+RAG+Developer;Competitive+Programmer;Always+Learning+🚀" />
-</p>
-
----
-
-# 👨‍💻 About Me
-
-🎓 B.Tech Information Technology @ IIIT Bhopal
-
-💻 Full Stack & AI Engineer
-
-🤖 Passionate about Generative AI, Backend Development and System Design
-
-🚀 Currently building an AI Powered CRM Platform
-
-🧠 Exploring
-
-- LLMs
-- RAG
-- AI Agents
-- LangGraph
-- MCP
-- FastAPI
-- Distributed Systems
-
-🏆 Codeforces Expert (1607)
-
-🔥 Solved 550+ DSA Problems
-
-💬 Ask me about
-
-- FastAPI
-- Node.js
-- React
-- GenAI
-- LangChain
-- RAG
-- Backend
-- System Design
-
----
-
-# 🌐 Connect with Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="YOUR_GITHUB">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-🌐 Portfolio
-</a>
-
-📧 aryanguptaofficial98@gmail.com
-
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/YOUR-HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="mailto:aryanguptaofficial98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-# ⚡ Tech Stack
+### 🚀 About Me
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,sql"/>
-</p>
-
----
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-</p>
+- 🎓 Final-year **B.Tech in Information Technology**, IIIT Bhopal (2023–2027) — CGPA: **8.14**
+- 🤖 Building scalable AI systems with **RAG, LLMs, NLP, and Agentic AI**
+- 💻 Also skilled in **Full-Stack Development** (React.js, Next.js, Node.js, FastAPI)
+- 🏆 **Codeforces Expert (1607)** — top 2% globally
+- 📚 Solved **550+ DSA problems**, 115+ day LeetCode streak, 3★ CodeChef
+- 🌟 Selected for **Amazon ML Summer School 2025** (top 3,000 of 65K+ applicants)
+- 🎯 Selected **3×** for Smart India Hackathon (SIH), contributor at **GSSoC'26**
 
 ---
 
-## Backend
+### 💼 Work Experience
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django"/>
-</p>
+**Full Stack & AI Engineer Intern** @ CEO Innovation — *May 2026 – Present*
+- Building an AI-powered CRM platform with role-based dashboards, predictive lead scoring, and automated workflow features.
 
----
+**Full Stack Developer Intern** @ Beyond Innovation — *Oct 2025 – Dec 2025*
+- Built scalable frontend/full-stack modules for a finance platform using React.js, Next.js, TypeScript, and Node.js with RAG-powered features.
 
-## AI / ML
-
-<p>
-
-Python
-
-Scikit-Learn
-
-TensorFlow
-
-PyTorch
-
-OpenCV
-
-LangChain
-
-LangGraph
-
-RAG
-
-LLMs
-
-Prompt Engineering
-
-AI Agents
-
-NLP
-
-</p>
+**Machine Learning Intern** @ F24Tech Softwares — *June 2025 – Aug 2025*
+- Built NLP + RAG based lead classification models achieving 95% accuracy, improving lead quality by 30–35%.
 
 ---
 
-## Database
+### 🛠️ Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis"/>
-</p>
-
----
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode"/>
-</p>
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[PolicyInsight AI](https://github.com/aryanitt/policyinsight-ai)** | AI platform analyzing 118K+ policy lines (9.6M tokens) via RAG pipelines, achieving 91% source attribution accuracy | LangChain, RAG, NLP, FastAPI/Node.js |
+| **[Arthrakshak](https://github.com/aryanitt/arthrakshak)** | AI-powered personal finance platform with real-time tracking for 1000+ transactions | React.js, Node.js, Gemini AI, Groq SDK |
+| **[Attend AI](https://github.com/aryanitt/attend-ai)** | Smart attendance system using facial recognition | FastAPI, React.js, OpenCV, FaceNet, MTCNN |
+| **[Roommate Dekho](https://github.com/aryanitt/roommate-dekho)** | Roommate matching app with KNN-based recommendations for 500+ users | FastAPI, MongoDB, Scikit-learn |
 
 ---
 
-# 🚀 Featured Projects
+### 🧰 Tech Stack
 
-## 🤖 AI CRM Platform
-
-- AI Chat Assistant
-- Lead Scoring
-- Voice Commands
-- AI Insights
-- Workflow Automation
-- Round Robin Lead Distribution
-
-Tech
-
-React • Next.js • Node.js • MongoDB • Gemini • JWT
-
----
-
-## 🧠 PolicyInsight AI
-
-AI powered Health Policy Intelligence Platform
-
-✅ RAG
-
-✅ LangChain
-
-✅ Semantic Search
-
-✅ Vector Search
-
-✅ LLM Integration
-
----
-
-## 💰 ArthRakshak
-
-AI Powered Personal Finance Platform
-
-Features
-
-- Expense Tracking
-
-- AI Insights
-
-- Analytics Dashboard
-
-- JWT Authentication
-
-- REST APIs
-
----
-
-## 🏠 Roommate Dekho
-
-FastAPI based roommate recommendation system
-
-Features
-
-- ML Recommendation
-
-- Google Maps
-
-- MongoDB
-
-- FastAPI
-
----
-
-## 📷 Attend AI
-
-Face Recognition Attendance System
-
-- FaceNet
-
-- MTCNN
-
-- OpenCV
-
-- FastAPI
-
-- React
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanitt&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanitt&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aryanitt&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanitt&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryanitt&theme=tokyonight&column=4"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-✅ Agentic AI
-
-✅ LangGraph
-
-✅ MCP
-
-✅ AI Workflows
-
-✅ Distributed Systems
-
-✅ System Design
-
----
-
-# 🏅 Achievements
-
-🏆 Codeforces Expert (1607)
-
-🔥 550+ DSA Problems Solved
-
-⚡ 115+ Day LeetCode Streak
-
-🏅 Amazon ML Summer School 2025
-
-🏅 Smart India Hackathon 3×
-
-🏅 GSSoC'26 Contributor
-
----
-
-# 💡 Quote
-
-> "Code. Learn. Build. Repeat."
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aryanitt&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-⭐ If you like my work, consider starring my repositories!
-
-</p>
+**Languages**
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
